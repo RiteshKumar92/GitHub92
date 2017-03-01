@@ -1,3 +1,6 @@
 I have done a good progres in git tutorial.
 But I should stop this tutorial here
 as I have to concentrate some where also
+I should note some where credentials for this
+so User name is Riteshkumar92
+and Password is GitHub@2017
